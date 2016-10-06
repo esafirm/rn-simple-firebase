@@ -1,0 +1,14 @@
+{
+  "name": "groceries",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@shoutem/ui": "^0.9.1",
+    "firebase": "^3.4.1",
+    "react": "15.3.2",
+    "react-native": "0.34.0"
+  }
+}
